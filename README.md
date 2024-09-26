@@ -20,7 +20,7 @@ Follow these steps to set up the project on your local machine:
 First, clone the project repository to your local machine using Git:
 
 ```bash
-[git clone https://github.com/your-username/your-repository.git](https://github.com/Kunalverma320/api_test.git)
+https://github.com/Kunalverma320/api_test.git
 
 
 Install Dependencies
