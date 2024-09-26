@@ -1,5 +1,3 @@
-# Project Name
-
 ## Introduction
 
 This project is a [brief description of your project]. It includes functionalities such as [list key features or functionalities].
